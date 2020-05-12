@@ -6,8 +6,8 @@ This Project also models the Inversre Kinematics of Kinova Robotics Jaco Arm att
 The project also validates both the Forward and Inverse Kinematics
 
 ## Dependencies
-Works with `VREP 3.5.0` and above
-`Matlab 2018` and above
+* Works with `VREP 3.5.0` and above
+* `Matlab 2018` and above
 
 ## Execution
 
