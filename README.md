@@ -17,6 +17,7 @@ The output videos can be found in the `output/`
 
 ## See how it works
 
+### Forward Kinematics
 <p align="center">
 <img src="images/fk.gif" alt="fk" width="480" >
 </p>
@@ -24,6 +25,7 @@ The output videos can be found in the `output/`
 <em>Forward Kinematics</em>
 </p>
 
+### Inverse Kinematics
 <p align="center">
 <img src="images/ik.gif" alt="ik" width="480" >
 </p>
