@@ -14,3 +14,20 @@ The project also validates both the Forward and Inverse Kinematics
 ## Results
 The results are listed in the report `doc/Project Report V1.2.pdf`
 The output videos can be found in the `output/`
+
+## See how it works
+
+<p align="center">
+<img src="images/fk.gif" alt="fk" width="480" >
+</p>
+<p align="center">
+<em>Forward Kinematics</em>
+</p>
+
+<p align="center">
+<img src="images/ik.gif" alt="ik" width="480" >
+</p>
+<p align="center">
+<em>Inverse Kinematics</em>
+</p>
+
